@@ -1,5 +1,4 @@
-Commande ECHO activ‚e.
-seaborn-dev
-matplotlib-dev
-pandas-dev
-numpy-dev
+pandas==2.2.3
+streamlit==1.40.0
+seaborn==0.9.0 
+matplotlib==3.9.2 
