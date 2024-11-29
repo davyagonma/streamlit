@@ -1,1 +1,5 @@
 Commande ECHO activ‚e.
+seaborn-dev
+matplotlib-dev
+pandas-dev
+numpy-dev
